@@ -1,5 +1,11 @@
 # 💫 About Me:
-Data Analytics projects using SQL, Excel, Power BI, and Python<br>Data Analytics projects, dashboards, and real-world data projects<br>Advanced Power BI, DAX, and real-world data analytics<br>Advanced SQL, Power BI, DAX, Python, and Statistics<br>SQL, Excel, Power BI, Data Analysis, and my IT Helpdesk experience<br>I enjoy turning raw data into meaningful insights and dashboards.
+
+🔭 **I’m currently working on:** Data Analytics projects using SQL, Excel, Power BI, and Python  
+👯 **I’m looking to collaborate on:** Data Analytics projects, dashboards, and real-world datasets  
+🤝 **I’m looking for help with:** Advanced Power BI, DAX, and real-world data analytics  
+🌱 **I’m currently learning:** Advanced SQL, Power BI, DAX, Python, and Statistics  
+💬 **Ask me about:** SQL, Excel, Power BI, Data Analysis, and IT Helpdesk experience  
+⚡ **Fun fact:** I enjoy turning raw data into meaningful insights and interactive dashboards.
 
 
 ## 🌐 Socials:
