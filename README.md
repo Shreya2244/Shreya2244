@@ -31,6 +31,7 @@ Data Analytics projects using SQL, Excel, Power BI, and Python<br>Data Analytics
 ![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shreya2244&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
